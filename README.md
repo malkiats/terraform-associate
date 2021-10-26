@@ -1,5 +1,4 @@
 # HashiCorp Certified: Terraform Associate - 50 Practical Demos
-[![Image](https://stacksimplify.com/course-images/hashicorp-certified-terraform-associate-highest-rated.png "HashiCorp Certified: Terraform Associate - 50 Practical Demos")](https://links.stacksimplify.com/hashicorp-certified-terraform-associate)
 
 ## Course Modules
 01. Infrastructure as Code (IaC)
@@ -54,7 +53,7 @@
 50. Dynamic Blocks
 
 
-## What will students learn in your course?
+## In course?
 - You will learn to master Terraform in a practical perspective with 40+ demo's
 - You will learn each and every concept of Terraform (basic to advanced)
 - You will learn to write and understand Terraform Resource Behavior in combination with all the Meta-Arguments
@@ -68,16 +67,6 @@
 - You will learn and implement Terraform Dynamic Expressions, Dynamic Blocks and Terraform Functions
 - You will also learn and implement Terraform Datasources concept
 
-## Are there any course requirements or prerequisites?
-- You must have an AWS Cloud account to follow with me for hands-on activities.
-- You don't need to have any basic knowledge of Terraform. Course will get started from very very basics of Terraform and take you to very advanced levels
-
-
-
-## Who are your target students?
-- Infrastructure Architects or Sysadmins or Developers who are planning to master Terraform
-- Any beginner who is interested in learning IaC Infrastructure as Code current trending tool Terraform 
-- Anyone who want to learn Terraform from a practical perspective 
 
 ## Github Repositories used for this course
 - [HashiCorp Certified: Terraform Associate](https://github.com/stacksimplify/hashicorp-certified-terraform-associate)
@@ -87,34 +76,4 @@
 - [Course PPT Presentation](https://github.com/stacksimplify/hashicorp-certified-terraform-associate/tree/master/presentation)
 - **Important Note:** Please go to these repositories and FORK these repositories and make use of them during the course.
 
-
-## Each of my courses come with
-- Amazing Hands-on Step By Step Learning Experiences
-- Real Implementation Experience
-- Friendly Support in the Q&A section
-- 30 Day "No Questions Asked" Money Back Guarantee!
-
-## My Other AWS Courses
-- [Udemy Enroll](https://github.com/stacksimplify/udemy-enroll)
-
-## Stack Simplify Udemy Profile
-- [Udemy Profile](https://www.udemy.com/user/kalyan-reddy-9/)
-
-# AWS EKS - Elastic Kubernetes Service - Masterclass
-[![Image](https://stacksimplify.com/course-images/AWS-EKS-Kubernetes-Masterclass-DevOps-Microservices-course.png "AWS EKS Kubernetes - Masterclass")](https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/?referralCode=257C9AD5B5AF8D12D1E1)
-
-
-# Azure Kubernetes Service with Azure DevOps and Terraform 
-[![Image](https://stacksimplify.com/course-images/azure-kubernetes-service-with-azure-devops-and-terraform.png "Azure Kubernetes Service with Azure DevOps and Terraform")](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/?referralCode=2499BF7F5FAAA506ED42)
-
-# Azure - HashiCorp Certified: Terraform Associate - 70 Demos
-[![Image](https://stacksimplify.com/course-images/azure-hashicorp-certified-terraform-associate-70demos.png "Azure - HashiCorp Certified: Terraform Associate - 70 Demos")](https://links.stacksimplify.com/azure-hashicorp-certified-terraform-associate)
-
-
-## Additional References
-- [Certification Curriculum](https://www.hashicorp.com/certification/terraform-associate)
-- [Certification Preparation](https://learn.hashicorp.com/collections/terraform/certification)
-- [Study Guide](https://learn.hashicorp.com/tutorials/terraform/associate-study?in=terraform/certification)
-- [Exam Review Guide](https://learn.hashicorp.com/tutorials/terraform/associate-review?in=terraform/certification)
-- [Sample Questions](https://learn.hashicorp.com/tutorials/terraform/associate-questions?in=terraform/certification)
 
